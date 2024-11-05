@@ -5,9 +5,10 @@
     <parent>
         <groupId>com.ajaxjs</groupId>
         <artifactId>ajaxjs-parent</artifactId>
-        <version>1.19</version>
+        <version>1.20</version>
         <relativePath />
     </parent>
+
     <artifactId>aj-common-parent</artifactId>
     <version>2.2</version>
     <packaging>pom</packaging>
